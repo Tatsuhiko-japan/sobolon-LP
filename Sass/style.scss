@@ -471,7 +471,7 @@ a {
 
      @include mq('md') {
         padding-top: 55%;
-        background:url(/img/top.png) top right / 82.5% no-repeat ;
+        background:url(../img/top.png) top right / 82.5% no-repeat ;
     }
 }
 
@@ -659,7 +659,7 @@ a {
      }
 
       @include mq('md') {
-        background: url(/img/bg.png) center center / cover;
+        background: url(../img/bg.png) center center / cover;
         background-size:  cover;
       }
 
